@@ -1,3 +1,9 @@
-# WebfishingSampleMod
+# WEBFISHING Touhou Titles
 
-See [the setup guide](https://notnite.github.io/webfishing-mod-wiki/guides/setup/) for more information.
+This mod includes titles of characters from the touhou series
+
+Curently only 4 characters have titles
+    - Cirno
+    - Marisa
+    - Sakuya
+    - Reimu
